@@ -1,7 +1,7 @@
 # Canal Casos e Acasos
 Por Carlos Oliveira
 
-#Bibliografia utilizada para o caso Mary Bell
+# Bibliografia utilizada para o caso Mary Bell
 
 Schechter, Harold. "Serial killers, anatomia do mal." Rio de Janeiro: DarkSide (2013).
 
